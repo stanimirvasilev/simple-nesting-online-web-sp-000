@@ -1,4 +1,4 @@
-require"pray"
+require"pry"
 def hopper
 	programmer_hash = 
  		{
@@ -58,7 +58,7 @@ def dennis_ritchies_language
         }
      }
      dennis_ritchies_language[:dennis_ritchie][:languages]
-     binding pray
+     binding pry
 end
 
 def adding_matz
